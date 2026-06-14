@@ -1,0 +1,10 @@
+# Compiled simulation files
+uart_rx
+uart_top_test
+uart_system
+baud_test
+tx_test
+sudo
+
+# VCD files in root (should be in sim/)
+*.vcd
